@@ -1,0 +1,31 @@
+\"Position Summary
+
+Sony Corporation of America (SCA) is seeking a Data Science Intern, Risk Analytics to join Sony’s Corporate Information Security Division. This position will report to the Director of Risk Analytics and be a part of the team responsible for designing, implementing, and maintaining a Global Information Security Risk Analytics platform used to provide information security risk intelligence to Senior Leadership and monitor the confidentiality, integrity, and availability of Sony assets.
+
+The ideal candidate will be passionate about using data analytics and data science techniques to solve complex business problems. This role will involve hands-on experience in machine learning, statistical analysis, and data-driven decision-making to help shape our data strategy and drive insights from large, diverse datasets.
+
+Job Responsibilities
+
+Assist in the development and implementation of models to solve business challenges and enhance decision-making processes
+
+Work with large datasets to perform data exploration, preprocessing, and feature engineering 
+
+Contribute to data visualization and storytelling to present findings and recommendations to stakeholders
+
+Analyze large amounts of data/information to discover and articulate trends and patterns
+
+Required Skills/Experience
+
+Working towards a graduate or undergraduate degree in Computer Science, Applied Mathematics, Statistics, Data Science/Analytics, or another related field
+
+Available at least 20 hours per week 
+
+Strong interest in data science and advanced analytics
+
+Familiarity with data modelling, statistical methods, machine learning, algorithm development, and data mining techniques
+
+Proficiency in Python, SQL, or R
+
+Experience in data wrangling, data visualization, and exploratory data analysis (EDA)
+
+Excellent problem-solving, analytical, and critical thinking skills\
