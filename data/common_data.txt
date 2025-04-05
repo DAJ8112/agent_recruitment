@@ -1,0 +1,1 @@
+screened_resumes = {'id1': ['Naishal MS Resume.pdf', 100, 'shahnai@iu.edu'], 'id3': ['7.pdf', 95, 'email@gmail.com'], 'id5': ['Dhruvil_Joshi_Resume.pdf', 92, '```\n"joshidh@iu.edu"\n```'], 'id2': ['6.pdf', 75, 'arjunwork4@gmail.com'], 'id4': ['4.pdf', 45, '']}

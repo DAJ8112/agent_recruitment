@@ -125,6 +125,10 @@ def generate():
     # Sort the results dictionary by scores in descending order
     sorted_results = dict(sorted(results.items(), key=lambda item: item[1][1], reverse=True))
 
+    screened_resumes = sorted_results
+    os.makedirs("data", exist_ok=True)  # Ensure the 'data' directory exists
+    with open("data/common_data.txt", "w") as file:
+        file.write(f"screened_resumes = {screened_resumes}")
     # Print the sorted results in the desired format
     print("\nSorted Results:")
     print(sorted_results)
